@@ -20,7 +20,9 @@
 
 - 📫 How to reach me **1arupsarkar112@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AiriaqkZIFEMY13CPdsAR1okOVQy-gwy/view?usp=sharing](https://drive.google.com/file/d/1AiriaqkZIFEMY13CPdsAR1okOVQy-gwy/view?usp=sharing)
+- 📄 Take view on my Resume [https://drive.google.com/drive/folders/16WpBgcUfucfk804vehtRcv3cIqznpn5o?usp=sharing](https://drive.google.com/drive/folders/16WpBgcUfucfk804vehtRcv3cIqznpn5o?usp=sharing)
+
+- 📄 Visit my Profile [https://arupsarkar.netlify.app/](https://arupsarkar.netlify.app/)
 
 - ⚡ Fun fact **I think I am a Nerd who love coding and analyze Chess Pattern**
 
