@@ -1,6 +1,6 @@
 [![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <h1 align="center">Hi 👋, I'm Arup Sarkar</h1>
-<h3 align="center">A passionate Full-Stack Java developer from India</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/woman-computer-system-coding-y615m1752e2r68is.gif">
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arup-sarkar-24" alt="arup-sarkar-24" /></a> </p>
 
-- 🔭 I’m currently working on **Cafe Management**
+- 🔭 I’m currently working on **Arizonix Microservice**
 
 - 🌱 I’m currently learning **Software Architecture , Data Science, Data Analytics**
 
