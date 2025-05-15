@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arup-sarkar-24" alt="arup-sarkar-24" /></a> </p>
 
-- 🔭 I’m currently working on **Arizonix Microservice**
+- 🔭 I’m currently working on <a href="https://github.com/Arup-Sarkar-24/arizonix">**Arizonix Microservice**</a>
 
 - 🌱 I’m currently learning **Software Architecture , Data Science, Data Analytics**
 
